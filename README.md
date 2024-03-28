@@ -1,16 +1,33 @@
 # facebook_clone
 
-A new Flutter project.
+#Posts_Screen
 
-## Getting Started
+![WhatsApp Image 2024-03-28 at 11 00 56 PM](https://github.com/YoussefSh00/facebook_clone/assets/151455507/f7ee3c27-c3f5-44c1-8ebd-6b312c5ff6a4)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#Videos_Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2024-03-28 at 11 00 56 PM (1)](https://github.com/YoussefSh00/facebook_clone/assets/151455507/2272c8f6-9bc6-470c-90c0-a2860db31db0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+#Friends_Requests_Screen
+
+![WhatsApp Image 2024-03-28 at 11 00 57 PM](https://github.com/YoussefSh00/facebook_clone/assets/151455507/99210410-1796-4de2-a9ee-945fa0df7e77)
+
+
+#Marketplace_Screen
+
+![WhatsApp Image 2024-03-28 at 11 00 57 PM (1)](https://github.com/YoussefSh00/facebook_clone/assets/151455507/37318352-143a-447b-a915-ae80304e7af7)
+
+
+#Notifications_Screen
+
+![WhatsApp Image 2024-03-28 at 11 00 57 PM (2)](https://github.com/YoussefSh00/facebook_clone/assets/151455507/d5ffb803-b5a0-4bec-9a0a-12171478103d)
+
+
+#Menu_Screen
+
+![WhatsApp Image 2024-03-28 at 11 00 57 PM (3)](https://github.com/YoussefSh00/facebook_clone/assets/151455507/04d7e793-be81-4639-86d2-9ed795d11023)
+
+
+
